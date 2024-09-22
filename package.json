@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<bepoooe>.github.io/<bepo-book>",
+  "homepage": "https://bepoooe.github.io/bepo-book",
   "name": "r3f-vite-starter",
   "private": true,
   "version": "1.0.0",
@@ -23,6 +23,7 @@
     "postcss": "^8.4.39",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.2",
     "tailwindcss": "^3.4.4",
     "three": "^0.166.1",
     "three-stdlib": "^2.30.4",
